@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+# Gorshkov Lab
 
-You can use the [editor on GitHub](https://github.com/gorshkovlab/about/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+We are a proteome bioinformatics and mass spectrometry group headed by Mikhail (Mike) Gorshkov.
+Our main reasearch focus is mass-spectrometry-based proteome analysis,
+from instrumentation to algorithms and data analysis, as well as biomedical applications, including proteogenomics.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Publications
 
-### Markdown
+Check Mikhail's [Google Scholar profile](https://scholar.google.ru/citations?user=o1s5vh4AAAAJ&hl=en).
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Location
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/gorshkovlab/about/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+V.L. Talrose Institute for Energy Problems of Chemical Physics at
+N.N. Semenov Federal Research Center for Chemical Physics
+Russian Academy of Sciences
+38 Leninsky Pr., Bld.2
+Moscow 119334, Russia
