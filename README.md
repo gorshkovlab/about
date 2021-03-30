@@ -2,7 +2,7 @@
 
 We are a proteome bioinformatics and mass spectrometry group headed by Mikhail (Mike) Gorshkov.
 
-Since the early 2000s, the Gorshkov lab has ben working in the field of liquid chromatography mass spectrometry (LC-MS)
+Since the early 2000s, the Gorshkov lab has been working in the field of liquid chromatography mass spectrometry (LC-MS)
 for proteomics as well as development of bioinformatics software.
 Our main research focus today remains with mass-spectrometry-based proteome analysis,
 from instrumentation to algorithms and data analysis.
