@@ -38,6 +38,12 @@ Check Mikhail's [Google Scholar profile](https://scholar.google.ru/citations?use
    [[8]](https://www.biorxiv.org/content/10.1101/2020.09.07.286161v2), [[9]](https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/full/10.1002/pmic.201800117)
  - [viQC](https://github.com/lisavetasol/viQC) - quality control of bottom-up proteomic experiments
    [[10]](https://link.springer.com/article/10.1134/S1061934819140119), [[11]](https://www.sciencedirect.com/science/article/pii/S138738061730146X?via%3Dihub)
+ - [Biosaur](https://github.com/abdrakhimov1/Biosaur) - peptide MS feature detector [[12]](https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/full/10.1002/rcm.9045)
+
+### Contact
+
+Email Mikhail Gorshkov at mike.gorshkov@gmail.com.
+
 
 ### Location
 
