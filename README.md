@@ -39,6 +39,9 @@ Check Mikhail's [Google Scholar profile](https://scholar.google.ru/citations?use
  - [viQC](https://github.com/lisavetasol/viQC) - quality control of bottom-up proteomic experiments
    [[10]](https://link.springer.com/article/10.1134/S1061934819140119), [[11]](https://www.sciencedirect.com/science/article/pii/S138738061730146X?via%3Dihub)
  - [Biosaur](https://github.com/abdrakhimov1/Biosaur) - peptide MS feature detector [[12]](https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/full/10.1002/rcm.9045)
+ - [BioLCCC](https://github.com/levitsky/biolccc) - a first-priciples theoretical model of peptide separation, suitable for RT prediction in any conditions
+   [[13]](http://dx.doi.org/10.1021/ac060913x), [[14]](http://dx.doi.org/10.1134/S1560090407030098), [[15]](http://www.springerlink.com/content/gnh84v62w960747n/),
+   [[16]](http://dx.doi.org/10.1002/pmic.200900837)
 
 ### Contact
 
