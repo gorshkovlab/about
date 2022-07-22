@@ -20,8 +20,9 @@ Check Mikhail's [Google Scholar profile](https://scholar.google.ru/citations?use
  - Lev I. Levitsky ([Google Scholar profile](https://scholar.google.ru/citations?user=MxtkGc4AAAAJ&hl=en), [Github profile](https://github.com/levitsky))
  - Anna A. Lobas, PhD ([Google Scholar profile](https://scholar.google.ru/citations?user=Xm_CNcsAAAAJ&hl=en))
  - Mark V. Ivanov, PhD ([Google Scholar profile](https://scholar.google.ru/citations?user=Z_NKnLMAAAAJ&hl=en), [Github profile](https://github.com/markmipt))
- - Julia A. Bubis ([Google Scholar profile](https://scholar.google.ru/citations?user=c1qCc_gAAAAJ&hl=en), [Github profile](https://github.com/SimpleNumber))
- - Elizaveta M. Solovyeva ([Google Scholar profile](https://scholar.google.ru/citations?user=5oFxW_kAAAAJ&hl=en), [Github profile](https://github.com/lisavetasol))
+ - Julia A. Bubis, PhD ([Google Scholar profile](https://scholar.google.ru/citations?user=c1qCc_gAAAAJ&hl=en), [Github profile](https://github.com/SimpleNumber))
+ - Elizaveta M. Solovyeva, PhD ([Google Scholar profile](https://scholar.google.ru/citations?user=5oFxW_kAAAAJ&hl=en), [Github profile](https://github.com/lisavetasol))
+ - Elizaveta M. Kazakova ([Github profile](https://github.com/kazakova)))
 
 ### Software
 
@@ -38,10 +39,11 @@ Check Mikhail's [Google Scholar profile](https://scholar.google.ru/citations?use
    [[8]](https://www.biorxiv.org/content/10.1101/2020.09.07.286161v2), [[9]](https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/full/10.1002/pmic.201800117)
  - [viQC](https://github.com/lisavetasol/viQC) - quality control of bottom-up proteomic experiments
    [[10]](https://link.springer.com/article/10.1134/S1061934819140119), [[11]](https://www.sciencedirect.com/science/article/pii/S138738061730146X?via%3Dihub)
- - [Biosaur](https://github.com/abdrakhimov1/Biosaur) - peptide MS feature detector [[12]](https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/full/10.1002/rcm.9045)
+ - [Biosaur2](https://github.com/markmipt/biosaur2) - peptide MS feature detector [[12]](https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/full/10.1002/rcm.9045)
  - [BioLCCC](https://github.com/levitsky/biolccc) - a first-priciples theoretical model of peptide separation, suitable for RT prediction in any conditions
    [[13]](http://dx.doi.org/10.1021/ac060913x), [[14]](http://dx.doi.org/10.1134/S1560090407030098), [[15]](http://www.springerlink.com/content/gnh84v62w960747n/),
    [[16]](http://dx.doi.org/10.1002/pmic.200900837)
+ - [QMetrics](https://github.com/kazakova/Metrics) - statistical analysis and selection of differentially regulated proteins using various metrics
 
 ### Contact
 
