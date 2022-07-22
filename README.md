@@ -22,7 +22,7 @@ Check Mikhail's [Google Scholar profile](https://scholar.google.ru/citations?use
  - Mark V. Ivanov, PhD ([Google Scholar profile](https://scholar.google.ru/citations?user=Z_NKnLMAAAAJ&hl=en), [Github profile](https://github.com/markmipt))
  - Julia A. Bubis, PhD ([Google Scholar profile](https://scholar.google.ru/citations?user=c1qCc_gAAAAJ&hl=en), [Github profile](https://github.com/SimpleNumber))
  - Elizaveta M. Solovyeva, PhD ([Google Scholar profile](https://scholar.google.ru/citations?user=5oFxW_kAAAAJ&hl=en), [Github profile](https://github.com/lisavetasol))
- - Elizaveta M. Kazakova ([Github profile](https://github.com/kazakova)))
+ - Elizaveta M. Kazakova ([Github profile](https://github.com/kazakova))
 
 ### Software
 
