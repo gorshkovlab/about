@@ -43,7 +43,7 @@ Check Mikhail's [Google Scholar profile](https://scholar.google.ru/citations?use
  - [BioLCCC](https://github.com/levitsky/biolccc) - a first-priciples theoretical model of peptide separation, suitable for RT prediction in any conditions
    [[13]](http://dx.doi.org/10.1021/ac060913x), [[14]](http://dx.doi.org/10.1134/S1560090407030098), [[15]](http://www.springerlink.com/content/gnh84v62w960747n/),
    [[16]](http://dx.doi.org/10.1002/pmic.200900837)
- - [QMetrics](https://github.com/kazakova/Metrics) - statistical analysis and selection of differentially regulated proteins using various metrics
+ - [QRePS](https://github.com/kazakova/Metrics) - statistical analysis and selection of differentially regulated proteins using various metrics
 
 ### Contact
 
