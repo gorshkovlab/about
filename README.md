@@ -48,13 +48,3 @@ Check Mikhail's [Google Scholar profile](https://scholar.google.ru/citations?use
 ### Contact
 
 Email Mikhail Gorshkov at mike.gorshkov@gmail.com.
-
-
-### Location
-
-V.L. Talrose Institute for Energy Problems of Chemical Physics at
-N.N. Semenov Federal Research Center for Chemical Physics,
-Russian Academy of Sciences
-
-38 Leninsky Pr., Bld.2
-Moscow 119334, Russia
