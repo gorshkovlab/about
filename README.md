@@ -23,6 +23,9 @@ Check Mikhail's [Google Scholar profile](https://scholar.google.ru/citations?use
  - Julia A. Bubis, PhD ([Google Scholar profile](https://scholar.google.ru/citations?user=c1qCc_gAAAAJ&hl=en), [Github profile](https://github.com/SimpleNumber))
  - Elizaveta M. Solovyeva, PhD ([Google Scholar profile](https://scholar.google.ru/citations?user=5oFxW_kAAAAJ&hl=en), [Github profile](https://github.com/lisavetasol))
  - Elizaveta M. Kazakova ([Github profile](https://github.com/kazakova))
+ - Daria D. Emekeeva ([Github profile](https://github.com/dashabezik))
+ - Valeriy I. Postoenko ([Github profile](https://github.com/PostoenkoVI))
+ - Ivan I. Fedorov ([Github profile](https://github.com/ProstoSych))
 
 ### Software
 
@@ -44,6 +47,10 @@ Check Mikhail's [Google Scholar profile](https://scholar.google.ru/citations?use
    [[13]](http://dx.doi.org/10.1021/ac060913x), [[14]](http://dx.doi.org/10.1134/S1560090407030098), [[15]](http://www.springerlink.com/content/gnh84v62w960747n/),
    [[16]](http://dx.doi.org/10.1002/pmic.200900837)
  - [QRePS](https://github.com/kazakova/Metrics) - statistical analysis and selection of differentially regulated proteins using various metrics
+   [[17]](https://doi.org/10.1002/pmic.202200275)
+ - [Morley](https://github.com/dashabezik/Morley) - digital plant morphometry and seed germination analysis
+ - [IQMMA](https://github.com/PostoenkoVI/IQMMA) - improved peptide-level LFQ by combining multiple feature detection algorithms
+ - [TPP_visualise](https://github.com/ProstoSych/TPP_visualise) - GUI for prediction of normalized melting curve behavior for different depths in protein-drug interactions
 
 ### Contact
 
