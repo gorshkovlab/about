@@ -48,8 +48,8 @@ Check Mikhail's [Google Scholar profile](https://scholar.google.ru/citations?use
    [[16]](http://dx.doi.org/10.1002/pmic.200900837)
  - [QRePS](https://github.com/kazakova/Metrics) - statistical analysis and selection of differentially regulated proteins using various metrics
    [[17]](https://doi.org/10.1002/pmic.202200275)
- - [Morley](https://github.com/dashabezik/Morley) - digital plant morphometry and seed germination analysis
- - [IQMMA](https://github.com/PostoenkoVI/IQMMA) - improved peptide-level LFQ by combining multiple feature detection algorithms
+ - [Morley](https://github.com/dashabezik/Morley) - digital plant morphometry and seed germination analysis [[18]](https://doi.org/10.3390/agronomy13082134) 
+ - [IQMMA](https://github.com/PostoenkoVI/IQMMA) - improved peptide-level LFQ by combining multiple feature detection algorithms [[19]](https://doi.org/10.1021/acs.jproteome.3c00075)
  - [TPP_visualise](https://github.com/ProstoSych/TPP_visualise) - GUI for prediction of normalized melting curve behavior for different depths in protein-drug interactions
 
 ### Contact
